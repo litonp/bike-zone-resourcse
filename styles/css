@@ -1,0 +1,23 @@
+.rating-icon {
+    width: 20px;
+}
+
+.container-fluid {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.btn {
+    color: white;
+}
+
+.footer {
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+
+}
